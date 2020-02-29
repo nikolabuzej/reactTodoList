@@ -9,13 +9,14 @@
     "axios": "^0.19.2",
     "gh-pages": "^2.2.0",
     "github-pages": "^3.0.2",
-    "homepage": "http://nikolabuzej.github.io/reactTodoList",
+   
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.0",
     "uuid": "^7.0.1"
   },
+  "homepage": "http://nikolabuzej.github.io/reactTodoList",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
