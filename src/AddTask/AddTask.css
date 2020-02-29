@@ -1,0 +1,12 @@
+.DodajForma{
+    display: grid;
+    
+    grid-template-columns: 9fr 1fr;
+    /* padding: 0.5em; */
+    border:dotted 0.2em salmon;
+    background-color: beige;
+}
+input{
+    height: 2em;
+    
+}

@@ -1,0 +1,30 @@
+.Todo{
+    display: grid;
+    
+    grid-template-columns: 1fr 2fr 1fr;
+    align-items: center;
+    background-color: lightblue;
+    padding: 0.2em;
+    border-bottom: lightcoral solid 0.2em;
+    
+    width: auto;
+}
+.Delete{
+    width: fit-content;
+    padding: 0.5em;
+    border-radius: 40%;
+    background-color: red;
+    border-style: none;
+    color:white;
+}
+.TodoTrue{
+    display: grid;
+    
+    grid-template-columns: 1fr 2fr 1fr;
+    align-items: center;
+    background-color: lightblue;
+    padding: 0.2em;
+    border-bottom: lightcoral solid 0.2em;
+    text-decoration: line-through;
+    width: auto;
+}
